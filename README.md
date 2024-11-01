@@ -8,9 +8,11 @@ Calcule pesos para as arestas baseados em um ou mais dos seguintes fatores:
 Quantidade de Mensagens: Número de mensagens trocadas entre os dois usuários.
 Tempo de Amizade: Duração da amizade.
 Amigos em Comum: Número de usuários (ou outros indicadores) de amigos de ambos.
+
 Parte 2 — Visualização do Grafo
 Gere uma visualização do grafo.
 Use atributos visuais (como espessura ou cor das arestas) para representar os pesos.
+
 Parte 3 — Análise e Sugestão de Amizades
 Análise de Amigos em Comum. Dado um determinado usuário, identifique (pelo menos):
 Lista de amigos diretos.
